@@ -1,6 +1,6 @@
 {
-  "name": "mup-aws-beanstalk-mp",
-  "version": "0.6.4",
+  "name": "@fractal-code/mup-aws-beanstalk",
+  "version": "0.7.0",
   "description": "Deploy apps to AWS Elastic Beanstalk using Meteor Up",
   "main": "index.js",
   "scripts": {
